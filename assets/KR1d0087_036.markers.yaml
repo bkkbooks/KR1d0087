@@ -75,6 +75,7 @@ markers:
   - {type: line-break, offset: 144, content: '', id: KR1d0087_WYG_036-1b04}
   - {type: indent, offset: 144, content: 　, id: KR1d0087_krp_036-bkkind10}
   - {type: punctuation, offset: 145, content: (, id: KR1d0087_krp_036-bkkpn1}
+  - {type: voice, offset: 145, length: 25, name: note, id: n1}
   - {type: substitution, offset: 150, original: 䖏, replacement: 處, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19924}}
   - {type: punctuation, offset: 158, content: /, id: KR1d0087_krp_036-bkkpn2}
   - {type: substitution, offset: 167, original: 葢, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19539}}
@@ -1172,6 +1173,7 @@ markers:
   - {type: line-break, offset: 3776, content: '', id: KR1d0087_WYG_036-13a07}
   - {type: indent, offset: 3776, content: 　, id: KR1d0087_krp_036-bkkind177}
   - {type: punctuation, offset: 3795, content: (, id: KR1d0087_krp_036-bkkpn4}
+  - {type: voice, offset: 3795, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 3796, content: /, id: KR1d0087_krp_036-bkkpn5}
   - {type: punctuation, offset: 3797, content: ), id: KR1d0087_krp_036-bkkpn6}
   - {type: 'kr:newline', offset: 3797, content: '
@@ -1279,6 +1281,7 @@ markers:
   - {type: line-break, offset: 4117, content: '', id: KR1d0087_WYG_036-14a08}
   - {type: indent, offset: 4117, content: 　, id: KR1d0087_krp_036-bkkind195}
   - {type: punctuation, offset: 4133, content: (, id: KR1d0087_krp_036-bkkpn10}
+  - {type: voice, offset: 4133, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 4135, content: /, id: KR1d0087_krp_036-bkkpn11}
   - {type: punctuation, offset: 4136, content: ), id: KR1d0087_krp_036-bkkpn12}
   - {type: 'kr:newline', offset: 4138, content: '
@@ -1675,6 +1678,7 @@ markers:
   - {type: indent, offset: 5264, content: 　, id: KR1d0087_krp_036-bkkind257}
   - {type: substitution, offset: 5270, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
   - {type: punctuation, offset: 5276, content: (, id: KR1d0087_krp_036-bkkpn13}
+  - {type: voice, offset: 5276, length: 17, name: note, id: n4}
   - {type: punctuation, offset: 5284, content: /, id: KR1d0087_krp_036-bkkpn14}
   - {type: punctuation, offset: 5292, content: ), id: KR1d0087_krp_036-bkkpn15}
   - {type: 'kr:newline', offset: 5292, content: '
@@ -1739,6 +1743,7 @@ markers:
   - {type: line-break, offset: 5445, content: '', id: KR1d0087_WYG_036-19a02}
   - {type: indent, offset: 5445, content: 　, id: KR1d0087_krp_036-bkkind268}
   - {type: punctuation, offset: 5452, content: (, id: KR1d0087_krp_036-bkkpn19}
+  - {type: voice, offset: 5452, length: 19, name: note, id: n5}
   - {type: punctuation, offset: 5462, content: /, id: KR1d0087_krp_036-bkkpn20}
   - {type: punctuation, offset: 5471, content: ), id: KR1d0087_krp_036-bkkpn21}
   - {type: indent, offset: 5471, content: 　, id: KR1d0087_krp_036-bkkind269}
@@ -1764,6 +1769,7 @@ markers:
   - {type: line-break, offset: 5519, content: '', id: KR1d0087_WYG_036-19a06}
   - {type: indent, offset: 5519, content: 　, id: KR1d0087_krp_036-bkkind273}
   - {type: punctuation, offset: 5529, content: (, id: KR1d0087_krp_036-bkkpn22}
+  - {type: voice, offset: 5529, length: 9, name: note, id: n6}
   - {type: punctuation, offset: 5534, content: /, id: KR1d0087_krp_036-bkkpn23}
   - {type: punctuation, offset: 5538, content: ), id: KR1d0087_krp_036-bkkpn24}
   - {type: indent, offset: 5538, content: 　, id: KR1d0087_krp_036-bkkind274}
@@ -3577,4 +3583,4 @@ markers:
 
       ', id: KR1d0087_krp_036-bkkkrnewl665}
   back: []
-hash: sha256:5190148759ce10f8b4b04a93d59355e7eda4f67a734c404684bf5cf747dedb13
+hash: sha256:93c3dc50349206e4c6907c326ec776c812c2745e822726737df725796abdef65

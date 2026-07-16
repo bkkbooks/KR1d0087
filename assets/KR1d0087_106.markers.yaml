@@ -499,6 +499,7 @@ markers:
   - {type: substitution, offset: 1814, original: 冊, replacement: 册, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16267}}
   - {type: substitution, offset: 1815, original: 寳, replacement: 寶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16794}}
   - {type: punctuation, offset: 1816, content: (, id: KR1d0087_krp_106-bkkpn1}
+  - {type: voice, offset: 1816, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 1818, content: /, id: KR1d0087_krp_106-bkkpn2}
   - {type: punctuation, offset: 1820, content: ), id: KR1d0087_krp_106-bkkpn3}
   - {type: indent, offset: 1820, content: 　, id: KR1d0087_krp_106-bkkind11}
@@ -515,6 +516,7 @@ markers:
   - {type: line-break, offset: 1852, content: '', id: KR1d0087_WYG_106-7a04}
   - {type: indent, offset: 1852, content: 　, id: KR1d0087_krp_106-bkkind13}
   - {type: punctuation, offset: 1854, content: (, id: KR1d0087_krp_106-bkkpn4}
+  - {type: voice, offset: 1854, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 1856, content: /, id: KR1d0087_krp_106-bkkpn5}
   - {type: punctuation, offset: 1858, content: ), id: KR1d0087_krp_106-bkkpn6}
   - {type: indent, offset: 1858, content: 　, id: KR1d0087_krp_106-bkkind14}
@@ -1843,6 +1845,7 @@ markers:
   - {type: line-break, offset: 5911, content: '', id: KR1d0087_WYG_106-21b02}
   - {type: indent, offset: 5911, content: 　, id: KR1d0087_krp_106-bkkind194}
   - {type: punctuation, offset: 5913, content: (, id: KR1d0087_krp_106-bkkpn7}
+  - {type: voice, offset: 5913, length: 10, name: note, id: n3}
   - {type: punctuation, offset: 5918, content: /, id: KR1d0087_krp_106-bkkpn8}
   - {type: substitution, offset: 5921, original: 烝, replacement: 蒸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19480}}
   - {type: punctuation, offset: 5923, content: ), id: KR1d0087_krp_106-bkkpn9}
@@ -2400,4 +2403,4 @@ markers:
 
       ', id: KR1d0087_krp_106-bkkkrnewl485}
   back: []
-hash: sha256:cdb74f0fdb89aa3713d102391261f2e724ca5e2e53cc08aa72edbe53030a7472
+hash: sha256:b25ee32faa19d3400078595c94aa3356a966e5563112dde444805794cf6b4280

@@ -261,10 +261,12 @@ markers:
       ', id: KR1d0087_krp_093-bkkkrnewl56}
   - {type: line-break, offset: 902, content: '', id: KR1d0087_WYG_093-4a03}
   - {type: punctuation, offset: 904, content: (, id: KR1d0087_krp_093-bkkpn1}
+  - {type: voice, offset: 904, length: 4, name: note, id: n1}
   - {type: substitution, offset: 905, original: 状, replacement: 狀, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16551}}
   - {type: punctuation, offset: 906, content: /, id: KR1d0087_krp_093-bkkpn2}
   - {type: punctuation, offset: 908, content: ), id: KR1d0087_krp_093-bkkpn3}
   - {type: punctuation, offset: 916, content: (, id: KR1d0087_krp_093-bkkpn4}
+  - {type: voice, offset: 916, length: 4, name: note, id: n2}
   - {type: substitution, offset: 917, original: 状, replacement: 狀, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16551}}
   - {type: punctuation, offset: 918, content: /, id: KR1d0087_krp_093-bkkpn5}
   - {type: punctuation, offset: 920, content: ), id: KR1d0087_krp_093-bkkpn6}
@@ -1417,6 +1419,7 @@ markers:
       ', id: KR1d0087_krp_093-bkkkrnewl313}
   - {type: line-break, offset: 5371, content: '', id: KR1d0087_WYG_093-18a08}
   - {type: punctuation, offset: 5383, content: (, id: KR1d0087_krp_093-bkkpn7}
+  - {type: voice, offset: 5383, length: 6, name: note, id: n3}
   - {type: punctuation, offset: 5386, content: /, id: KR1d0087_krp_093-bkkpn8}
   - {type: punctuation, offset: 5389, content: ), id: KR1d0087_krp_093-bkkpn9}
   - {type: substitution, offset: 5389, original: 盗, replacement: 盜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19616}}
@@ -2443,4 +2446,4 @@ markers:
 
       ', id: KR1d0087_krp_093-bkkkrnewl539}
   back: []
-hash: sha256:428194c5cae8d22eb6bfdc0dbbb252062eb677e05f04cf54fca31e0938ea2c68
+hash: sha256:739ccda5a89126164c31bb8e9a254999b40cb85c5911e482b91176e581a7fe74
